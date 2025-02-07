@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bohemian Rhapsody",
+        "artista": "Queen"
+    },
+    {
+        "id": 2,
+        "titulo": "Stairway to Heaven",
+        "artista": "Led Zeppelin"
+    },
+    {
+        "id": 3,
+        "titulo": "Hotel California",
+        "artista": "Eagles"
+    },
+    {
+        "id": 4,
+        "titulo": "Imagine",
+        "artista": "John Lennon"
+    },
+    {
+        "id": 5,
+        "titulo": "Smells Like Teen Spirit",
+        "artista": "Nirvana"
+    }
+]
