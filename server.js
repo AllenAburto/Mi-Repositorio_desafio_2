@@ -6,7 +6,7 @@ const PORT = 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Bienvenido a la API de Mi Repertorio');
+    res.send('Bienvenido a la API de Mi Repositorio');
 });
 
 app.get('/canciones', (req, res) => {
